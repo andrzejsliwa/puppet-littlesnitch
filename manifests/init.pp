@@ -6,6 +6,6 @@
 class littlesnitch {
   package { 'LittleSnitch':
     provider => 'appdmg',
-    source   => 'http://www.obdev.at/ftp/pub/Products/LittleSnitch/LittleSnitch-3.3.4.dmg'
+    source   => 'https://www.obdev.at/downloads/littlesnitch/LittleSnitch-3.6.dmg'
   }
 }
